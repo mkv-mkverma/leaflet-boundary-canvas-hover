@@ -5,7 +5,7 @@
   "main": "src/BoundaryCanvas.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mkv-mkverma/leaflet-boundary-canvas-hover"
+    "url": "git+https://github.com/mkv-mkverma/leaflet-boundary-canvas-hover.git"
   },
   "keywords": [
     "leaflet",
