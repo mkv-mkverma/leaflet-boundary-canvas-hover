@@ -1,19 +1,19 @@
 {
-  "name": "leaflet-boundary-canvas",
+  "name": "leaflet-boundary-canvas-hover",
   "version": "1.0.0",
   "description": "A fullscreen control for Leaflet",
   "main": "src/BoundaryCanvas.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ttungbmt/leaflet-boundary-canvas"
+    "url": "git://github.com/ttungbmt/leaflet-boundary-canvas-hover"
   },
   "keywords": [
     "leaflet",
     "maps",
     "boundary canvas",
-    "client"
+    "color picker"
   ],
-  "author": "Truong Thanh TUng",
+  "author": "Manish Kumar Verma",
   "license": "MIT License",
   "readmeFilename": "README.md"
 }
